@@ -1,0 +1,27 @@
+To-Do
+=====
+2. current medication and check box value sending to backend 
+3. age grp and product reln M2MField and product rendring
+4. user dashboard page generate report that is user_report.html
+5. camera feed, snapshot to backend
+6. Add to cart 
+7. last visited date date in proper format
+8. dashboard page date field show and duagnosis report and UI fixing user multiple visit....product recomondation
+9. Admin token login
+10. dynamic path for kaya main url for redirection to my site i.e next
+11. AI integration , AI image storing and render to concerns page
+
+
+Issue
+=====
+if user go solution page withuting filling form and uploading imagep.env
+recomondedd product on user dashboard
+add to cart -------------> zero after page refresh and 0 styling
+
+
+Instant to Work
+===============
+User Dashboard and product add to cart
+Image to back end (base64)
+Camera
+
